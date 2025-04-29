@@ -1,2 +1,9 @@
-# Educational-Website
-In this Repository,I try to Built with passion and purpose, this web project is a complete educational platform designed to provide high-quality tutorials for learners at all levels. 
+# CurioKid
+🚀 I just created CurioKid — an educational website designed to spark curiosity and creativity in children!..with a focus on fun, simplicity, and interactive learning, CurioKid aims to make education engaging and accessible for young minds.
+This project challenged me to think like a kid while building like a developer — from crafting colorful UI to integrating playful content that makes learning exciting. It’s a step toward my dream of using tech to make a positive impact in education.
+
+🛠️ Built with: hashtag#HTML& CSS,hashtag#Jquery hashtag#JavaScript, hashtag#React.js 
+
+ 🌐 Check it out: https://lnkd.in/eZUdnmhi
+
+Would love your feedback and thoughts!
