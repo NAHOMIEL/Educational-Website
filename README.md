@@ -4,6 +4,6 @@ This project challenged me to think like a kid while building like a developer �
 
 🛠️ Built with: hashtag#HTML& CSS,hashtag#Jquery hashtag#JavaScript, hashtag#React.js 
 
- 🌐 Check it out: https://lnkd.in/eZUdnmhi
+ 🌐 Check it out: https://nahom-kids.netlify.app/
 
 Would love your feedback and thoughts!
